@@ -1,0 +1,34 @@
+_repo: Pl0xf8jeren_65711
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blixen, Karen
+    aliases:
+    - Blixen, Tania
+    - Dinesen, Isak
+    - Osceola
+    - Andrezel, Pierre
+    - Andrézel, Pierre
+    birthdate: 1885
+    deathdate: 1962
+    gutenberg_agent_id: '53371'
+    url: http://www.gutenberg.org/2009/agents/53371
+    wikipedia:
+    - https://da.wikipedia.org/wiki/Karen_Blixen
+    - https://en.wikipedia.org/wiki/Karen_Blixen
+description: ''
+gutenberg_issued: '2021-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65711'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Danish fiction -- 20th century'
+- !lcsh 'Short stories'
+- GITenberg
+title: Pløjeren
+url: http://www.gutenberg.org/ebooks/65711
