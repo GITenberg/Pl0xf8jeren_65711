@@ -1,5 +1,8 @@
 _repo: Pl0xf8jeren_65711
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65711-h/images/cover.jpg
 creator:
   author:
     agent_name: Blixen, Karen
@@ -17,6 +20,8 @@ creator:
     - https://da.wikipedia.org/wiki/Karen_Blixen
     - https://en.wikipedia.org/wiki/Karen_Blixen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65711#Pl0xf8jeren
 gutenberg_issued: '2021-06-27'
 gutenberg_type: Text
 identifiers:
